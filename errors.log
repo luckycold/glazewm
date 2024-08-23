@@ -1,0 +1,4 @@
+[2m2024-08-19T19:35:32.981675Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m could not find expected ':' at line 142 column 5, while scanning a simple key at line 141 column 5
+[2m2024-08-19T20:02:04.630016Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 76 column 23, while parsing a block mapping at line 73 column 5
+[2m2024-08-19T20:03:15.232392Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-08-19T20:03:50.558829Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 76 column 22, while parsing a block mapping at line 73 column 5
