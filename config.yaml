@@ -301,6 +301,8 @@ keybindings:
     bindings: ['alt+8']
   - commands: ['focus --workspace 9']
     bindings: ['alt+9']
+  - commands: ['focus --workspace 10']
+    bindings: ['alt+0']
 
     #Change focus to a workspace defined in `workspaces` config.
   - commands: ["focus --workspace  1"]
