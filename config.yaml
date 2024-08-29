@@ -95,7 +95,7 @@ workspaces:
     bind_to_monitor: 0
   - name: "5"
     bind_to_monitor: 1
-    # display_name: ""
+    display_name: "󰃖"
   - name: "6"
     display_name: "󰊻"
     bind_to_monitor: 2
